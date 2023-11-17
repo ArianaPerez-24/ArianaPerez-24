@@ -1,5 +1,5 @@
 - 👋 Hola, soy @ArianaPerez-24
-- 👀 Estoy interesada en la programación
+- 👀 Estoy interesada en la plataforma
 - 🌱 Actualmente estudio Ciencia de Datos
 Esta plataforma me servirá mucho par aprender nuevas cosas, pienso que es una gran herramienta. Pero primero quiero conocer mejor como utilizarla.
 <!---
